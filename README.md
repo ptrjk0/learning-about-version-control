@@ -1,4 +1,5 @@
 # Learning About Version Control
+Solving merge conflicts is easy!
 ## Author 
 
 **Peter Kim**
